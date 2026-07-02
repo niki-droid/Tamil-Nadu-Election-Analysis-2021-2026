@@ -95,7 +95,6 @@ All data sourced exclusively from the Election Commission of India. No exit poll
 > 46% of TVK's wins were decisive victories. Average winning margin was 8.3%.
 
 ---
-```
 ## How to Reproduce This Analysis
 
 **Step 1 — Load the data**  
