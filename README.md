@@ -71,7 +71,7 @@ All data sourced exclusively from the Election Commission of India. No exit poll
 │   └── analysis_queries.sql       # All SQL queries used for analysis
 │
 ├── dashboard/
-│   └── tn_dashboard.pbix          # Power BI dashboard file
+│   └── tamil_nadu_election_analysis_dashboard.pbix          # Power BI dashboard file
 │
 ├── presentation/
 │   └── tn_election_atliq.pptx     # 10-slide deck for AtliQ Media
@@ -95,7 +95,7 @@ Use the queries in `sql/analysis_queries.sql` to:
 - Categorise margins into Close (<5%), Moderate (5–15%), Decisive (>15%)
 
 **Step 3 — Load into Power BI**  
-Open `tn_dashboard.pbix` or connect Power BI to your SQL output tables.  
+Open `tamil_nadu_electin_dashboard.pbix` or connect Power BI to your SQL output tables.  
 The dashboard has three pages:
 - `party_performance` — regional seat distribution 2021 vs 2026
 - `changed_constituencies` — flip analysis and transition matrix
