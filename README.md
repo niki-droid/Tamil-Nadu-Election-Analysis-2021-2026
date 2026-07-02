@@ -83,15 +83,15 @@ All data sourced exclusively from the Election Commission of India. No exit poll
 ## Dashboard Preview
 
 ### Tab 1 — Geographic Story
-![Regional Seat Distribution](screenshots/d1.png)
+![Regional Seat Distribution](d1.png)
 > TVK swept all 6 regions in 2026. Chennai Metro flipped almost entirely from DMK to TVK.
 
 ### Tab 2 — The Flip Story
-![Party Transition Matrix](screenshots/d2.png)
+![Party Transition Matrix](d2.png)
 > 70% of constituencies changed hands. DMK lost 65 seats directly to TVK — the single biggest flow.
 
 ### Tab 3 — Margin of Victory
-![Margin Analysis](screenshots/D3.png)
+![Margin Analysis](D3.png)
 > 46% of TVK's wins were decisive victories. Average winning margin was 8.3%.
 
 ---
