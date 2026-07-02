@@ -53,9 +53,10 @@ All data sourced exclusively from the Election Commission of India. No exit poll
 |---|---|
 | [ECI Results Portal 2026](https://results.eci.gov.in/ResultAcGenMay2026) | Constituency-wise results, candidates, votes for 2026 |
 | [ECI Statistical Reports](https://eci.gov.in/statistical-reports) | Official PDF reports for 2021 Tamil Nadu Assembly |
-| `tn_2026_results.csv` | Codebasics starter pack — 234 constituencies, candidate-level data |
-| `tn_2021_results.csv` | Codebasics starter pack — same schema as 2026 |
+| `2026_results.csv` | Codebasics starter pack — 234 constituencies, candidate-level data |
+| `2021_results.csv` | Codebasics starter pack — same schema as 2026 |
 | `constituency_master.csv` | Region mapping for all 234 constituencies |
+|`changed_constituencies.csv`|constituencies and Ac_number mapping for party in 2021 and party 2026|
 
 ---
 
@@ -63,20 +64,27 @@ All data sourced exclusively from the Election Commission of India. No exit poll
 
 ```
 ├── data/
-│   ├── tn_2021_results.csv        # Raw 2021 election results
-│   ├── tn_2026_results.csv        # Raw 2026 election results
+│   ├── 2021_results.csv        # Raw 2021 election results
+│   ├── 2026_results.csv        # Raw 2026 election results
 │   └── constituency_master.csv    # Constituency to region mapping
 │
 ├── sql/
-│   └── analysis_queries.sql       # All SQL queries used for analysis
-│
+│   └── O1_regional_seats.sql     # All SQL queries used for analysis
+│   |--O2_flip_matrix.sql
+    |--O3_margin_analysis.sql
 ├── dashboard/
 │   └── tamil_nadu_election_analysis_dashboard.pbix          # Power BI dashboard file
 │
 ├── presentation/
-│   └── tn_election_atliq.pptx     # 10-slide deck for AtliQ Media
+│   └── tn_election_atliq.odp   # 10-slide deck for AtliQ Media
 │
 └── README.md
+```
+##screenshot of three dashboard
+d1.png  #regional_seats
+d2.png   #flip_matrix
+D3.png    #margin_analysis
+
 ```
 
 ---
@@ -84,7 +92,7 @@ All data sourced exclusively from the Election Commission of India. No exit poll
 ## How to Reproduce This Analysis
 
 **Step 1 — Load the data**  
-Import `tn_2021_results.csv`, `tn_2026_results.csv`, and `constituency_master.csv` into your SQL environment or Power BI.
+Import `2021_results.csv`, `2026_results.csv`, and `constituency_master.csv` into your SQL environment or Power BI.
 
 **Step 2 — Run SQL queries**  
 Use the queries in `sql/analysis_queries.sql` to:
@@ -102,7 +110,7 @@ The dashboard has three pages:
 - `Margin_Analysis` — margin of victory breakdown
 
 **Step 4 — Review the presentation**  
-Open `tn_election_atliq.pptx` for the 10-slide editorial pitch deck built for AtliQ Media leadership.
+Open `tn_election_atliq.odp` for the 10-slide editorial pitch deck built for AtliQ Media leadership.
 
 ---
 
