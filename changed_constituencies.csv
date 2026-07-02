@@ -1,0 +1,164 @@
+ac_number,constituency,party_2021,party_2026
+1,Gummidipundi,DMK,TVK
+2,Ponneri,INC,TVK
+3,Tiruttani,DMK,AIADMK
+4,Thiruvallur,DMK,TVK
+5,Poonamallee,DMK,TVK
+6,Avadi,DMK,TVK
+7,Maduravoyal,DMK,TVK
+8,Ambattur,DMK,TVK
+9,Madavaram,DMK,TVK
+10,Thiruvottiyur,DMK,TVK
+11,Dr. Radhakrishnan Nagar,DMK,TVK
+12,Perambur,DMK,TVK
+13,Kolathur,DMK,TVK
+14,Villivakkam,DMK,TVK
+15,Thiru-Vi-Ka-Nagar,DMK,TVK
+16,Egmore,DMK,TVK
+17,Royapuram,DMK,TVK
+20,Thousand Lights,DMK,TVK
+21,Anna Nagar,DMK,TVK
+22,Virugampakkam,DMK,TVK
+23,Saidapet,DMK,TVK
+24,Theayagaraya Nagar,DMK,TVK
+25,Mylapore,DMK,TVK
+26,Velachery,INC,TVK
+27,Shozhinganallur,DMK,TVK
+28,Alandur,DMK,TVK
+29,Sriperumbudur,INC,TVK
+30,Pallavaram,DMK,TVK
+31,Tambaram,DMK,TVK
+32,Chengalpattu,DMK,TVK
+33,Thiruporur,VCK,TVK
+34,Cheyyur,VCK,AIADMK
+36,Uthiramerur,DMK,TVK
+37,Kancheepuram,DMK,TVK
+38,Arakonam,AIADMK,TVK
+39,Sholinghur,INC,TVK
+40,Katpadi,DMK,TVK
+41,Ranipet,DMK,TVK
+42,Arcot,DMK,AIADMK
+43,Vellore,DMK,TVK
+44,Anaikattu,DMK,AIADMK
+45,Kilvaithinankuppam,AIADMK,TVK
+46,Gudiyatham,DMK,TVK
+47,Vaniayambadi,AIADMK,IUML
+49,Jolarpet,DMK,AIADMK
+50,Tiruppattur,DMK,TVK
+51,Uthangarai,AIADMK,TVK
+52,Bargur,DMK,AIADMK
+53,Krishnagiri,AIADMK,TVK
+54,Veppanahalli,AIADMK,DMK
+55,Hosur,DMK,AIADMK
+58,Pennagaram,PMK,TVK
+62,Chengam,DMK,AIADMK
+64,Kilpennathur,DMK,AIADMK
+65,Kalasapakkam,DMK,AIADMK
+66,Polur,AIADMK,TVK
+68,Cheyyar,DMK,AIADMK
+70,Gingee,DMK,PMK
+71,Mailam,PMK,AIADMK
+72,Tindivanam,AIADMK,VCK
+73,Vanur,AIADMK,DMK
+75,Vikravandi,DMK,PMK
+76,Tirukkoyilur,DMK,AIADMK
+79,Sankarapuram,DMK,AIADMK
+80,Kallakurichi,AIADMK,TVK
+85,Mettur,PMK,AIADMK
+88,Salem (West),PMK,TVK
+89,Salem (North),DMK,TVK
+90,Salem (South),AIADMK,TVK
+91,Veerapandi,AIADMK,TVK
+92,Rasipuram,DMK,TVK
+93,Sendamangalam,DMK,TVK
+94,Namakkal,DMK,TVK
+96,Tiruchengode,DMK,TVK
+97,Kumarapalayam,AIADMK,TVK
+98,Erode (East),INC,TVK
+99,Erode (West),DMK,TVK
+100,Modakurichi,BJP,TVK
+101,Dharapuram,DMK,AIADMK
+102,Kangayam,DMK,AIADMK
+105,Anthiyur,DMK,AIADMK
+106,Gobichettipalayam,AIADMK,TVK
+107,Bhavanisagar,AIADMK,TVK
+108,Udhagamandalam,INC,BJP
+109,Gudalur,AIADMK,DMK
+111,Mettupalayam,AIADMK,TVK
+112,Avanashi,AIADMK,TVK
+113,Tiruppur (North),AIADMK,TVK
+114,Tiruppur (South),DMK,TVK
+115,Palladam,AIADMK,TVK
+116,Sulur,AIADMK,TVK
+117,Kavundampalayam,AIADMK,TVK
+118,Coimbatore North,AIADMK,TVK
+120,Coimbatore South,BJP,DMK
+121,Singanallur,AIADMK,TVK
+122,Kinathukadavu,AIADMK,TVK
+123,Pollachi,AIADMK,DMK
+124,Valparai,AIADMK,DMK
+125,Udumalpet,AIADMK,DMK
+126,Madathukulam,AIADMK,DMK
+127,Palani,DMK,AIADMK
+130,Nilakottai,AIADMK,TVK
+132,Dindigul,AIADMK,DMK
+135,Karur,DMK,AIADMK
+136,Krishnarayapuram,DMK,TVK
+138,Manapparai,DMK,TVK
+139,Srirangam,DMK,TVK
+141,Tiruchirapalli (East),DMK,TVK
+142,Thiruverambur,DMK,TVK
+143,Lalgudi,DMK,AIADMK
+145,Musiri,DMK,TVK
+146,Thuraiyur,DMK,TVK
+147,Perambalur,DMK,TVK
+149,Ariyalur,DMK,AIADMK
+150,Jayankondam,DMK,PMK
+152,Vriddhachalam,INC,DMDK
+153,Neyveli,DMK,AIADMK
+154,Panruti,DMK,AIADMK
+155,Cuddalore,DMK,TVK
+158,Chidambaram,AIADMK,DMK
+163,Nagapattinam,VCK,DMK
+167,Mannargudi,DMK,AMMK
+171,Kumbakonam,DMK,TVK
+172,Papanasam,DMK,IUML
+174,Thanjavur,DMK,TVK
+175,Orathanad,AIADMK,DMK
+178,Gandharvakottai,CPI(M),TVK
+183,Arantangi,INC,TVK
+184,Karaikudi,INC,TVK
+185,Tiruppattur,DMK,TVK
+186,Sivaganga,AIADMK,TVK
+187,Manamadurai,DMK,TVK
+188,Melur,AIADMK,INC
+189,Madurai East,DMK,TVK
+190,Sholavandan,DMK,TVK
+191,Madurai North,DMK,TVK
+192,Madurai South,DMK,TVK
+193,Madurai Central,DMK,TVK
+194,Madurai West,AIADMK,TVK
+195,Thiruparankundram,AIADMK,TVK
+196,Thirumangalam,AIADMK,DMK
+197,Usilampatti,AIADMK,TVK
+199,Periyakulam,DMK,TVK
+200,Bodinayakanur,AIADMK,DMK
+201,Cumbum,DMK,TVK
+202,Rajapalayam,DMK,TVK
+203,Srivilliputhur,AIADMK,TVK
+205,Sivakasi,INC,TVK
+206,Virudhunagar,DMK,TVK
+210,Tiruvadanai,INC,TVK
+214,Thoothukkudi,DMK,TVK
+216,Srivaikuntam,INC,TVK
+217,Ottapidaram,DMK,TVK
+218,Kovilpatti,AIADMK,DMK
+219,Sankarankovil,DMK,AIADMK
+221,Kadayanallur,AIADMK,DMK
+222,Tenkasi,INC,DMK
+223,Alangulam,AIADMK,DMK
+224,Tirunelveli,BJP,TVK
+227,Nanguneri,INC,TVK
+228,Radhapuram,DMK,TVK
+230,Nagercoil,BJP,DMK
+232,Padmanabhapuram,DMK,CPI(M)
